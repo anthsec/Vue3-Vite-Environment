@@ -1,6 +1,7 @@
 # Vue3+Vite+Vue Router+Axios基础环境配置
 
 此项目用于快速搭建vite+vue3的开发环境，并通过组件示例的形式，记录一些常见的组件模板和用法。
+集成组件：vue3+vite+vue-router+vue-axios
 
 ## 1、快速开始
 
